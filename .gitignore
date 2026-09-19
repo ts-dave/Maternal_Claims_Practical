@@ -38,9 +38,5 @@ rsconnect/
 *.tmp
 *.bak
 
-# Project local output folders (keep if you want them tracked, otherwise ignore)
-output/
-reports/
-
 # Optional: ignore large raw data if it should not be committed
 # data/raw/
