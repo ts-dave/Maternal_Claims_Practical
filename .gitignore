@@ -1,0 +1,46 @@
+# History files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+
+# User-specific files
+.Rproj.user/
+*.Rproj
+
+# Session state
+.Rproj.user/
+.Ruserdata
+
+# Package build / check artifacts
+/*.tar.gz
+/*.Rcheck/
+
+# Knitr / R Markdown cache
+*_cache/
+/_book/
+/_site/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Data objects and outputs
+*.RData
+*.Rds
+*.rds
+
+# Shiny app cache
+rsconnect/
+
+# Other common local artifacts
+*.log
+*.tmp
+*.bak
+
+# Project local output folders (keep if you want them tracked, otherwise ignore)
+output/
+reports/
+
+# Optional: ignore large raw data if it should not be committed
+# data/raw/
