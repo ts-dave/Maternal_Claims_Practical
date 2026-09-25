@@ -1,0 +1,197 @@
+facility_name,district,type,ownership,women,encounters,deliveries
+M MARQUART CATH HOSP,Kpando,Hospital,Chag,1565,5656,1291
+HO MUN HOSP,Ho,Hospital,Government,1418,5928,1169
+VOLTA REG HOSP,Ho,Hospital,Government,1334,6244,1218
+HOHOE MUN HOSP,Hohoe,Hospital,Government,1137,4928,972
+KETU SOUTH DIST HOSP,Ketu South,Hospital,Government,1101,4687,1019
+KRACHI WEST DIST HOSP,Krachi West,Hospital,Government,942,3302,613
+NKWANTA DIST HOSP,Nkwanta South,Hospital,Government,758,1868,459
+MARY THERESA HOSP,Kadjebi,Hospital,Chag,604,1669,517
+CATH HOSP ANFOEGA,North Dayi,Hospital,Chag,575,1873,478
+KETA MUN HOSP,Keta,Hospital,Government,564,1748,523
+JASIKAN DIST HOSP,Jasikan,Hospital,Government,551,1818,461
+PEKI GOVT HOSP,South Dayi,Hospital,Government,540,1842,459
+HO ROYAL HOSP,Ho,Hospital,Private,526,2522,383
+WORAWORA HOSP,Biakoye,Hospital,Government,500,1236,387
+SACRED HEART HOSP,Keta,Hospital,Chag,494,1689,463
+ST JOSEPH HOSP,Nkwanta South,Hospital,Chag,429,990,302
+CATH HOSP BATTOR,North Tongu,Hospital,Chag,428,1794,413
+KPETOE HC,Agortime Ziope,Health Centre,Government,418,1258,153
+KPANDO HC,Kpando,Health Centre,Government,409,945,95
+KPASSA HC,Nkwanta North,Health Centre,Government,358,888,184
+ST ANTHONYS HOSP,Ketu North,Hospital,Chag,293,1084,280
+DAMBAI HC,Krachi East,Health Centre,Government,286,736,91
+KADJEBI HC,Kadjebi,Health Centre,Government,278,1049,137
+KPASSA MAT HOME,Nkwanta North,Maternity Home,Private,264,663,152
+EP CHURCH HC,Krachi East,Health Centre,Chag,229,574,97
+MATER ECCLESIAE CLINIC,Ho,Clinic,Chag,222,916,89
+AKATSI DIST HOSP,Akatsi South,Hospital,Government,178,612,147
+ST. LUKES CLINIC,Krachi Nchumuru,Health Centre,Chag,173,393,110
+ZIOPE HC,Agortime Ziope,Health Centre,Government,157,463,57
+KATANGA HC,Krachi East,Health Centre,Government,155,442,99
+HAVE HC,Afadjato South,Health Centre,Government,154,356,39
+ABOTOASE HC,Biakoye,Health Centre,Government,137,416,26
+TONGOR TSANAKPE HC,South Dayi,Health Centre,Government,131,389,54
+EP CLINIC,South Dayi,Clinic,Chag,128,287,62
+TEGBI HC,Keta,Health Centre,Government,124,251,23
+AFLAO CENTRAL HOSP,Ketu South,Hospital,Private,122,489,100
+DODO AMANFROM HC,Kadjebi,Health Centre,Government,114,194,5
+HO POLYCLINIC,Ho,Polyclinic,Government,112,288,0
+BORAE HC,Krachi Nchumuru,Health Centre,Government,110,220,43
+NEW AYOMA HC,Jasikan,Health Centre,Government,108,345,70
+ADIDOME HOSP,Central Tongu,Hospital,Government,104,240,97
+BANDA HC,Krachi Nchumuru,Health Centre,Government,104,262,61
+LOGBA VUINTA HC,Afadjato South,Health Centre,Government,97,229,25
+ANYINAMAE HC,Krachi Nchumuru,Health Centre,Government,93,265,57
+AHAMANSU HC,Kadjebi,Health Centre,Government,92,252,39
+SAPE AGBO MEM HOSP,Ketu South,Hospital,Private,89,226,80
+ANLOGA HC,Keta,Health Centre,Government,88,182,29
+ST GEORGE CLINIC,Afadjato South,Clinic,Chag,85,259,35
+AFIADENYIGBA HC,Keta,Health Centre,Government,84,235,16
+MAFE KUMASE CHPS,Central Tongu,Chps,Government,81,239,15
+LIKPE BAKWA HC,Hohoe,Health Centre,Government,80,273,39
+GRUBI HC,Krachi Nchumuru,Health Centre,Government,71,212,52
+VE GHAD HC,Afadjato South,Health Centre,Government,69,176,19
+NKONYA WURUPONG HC,Biakoye,Health Centre,Government,68,124,4
+NYIVE HC,Ho,Health Centre,Government,61,197,31
+COMBONI HOSP,South Tongu,Hospital,Chag,54,127,53
+WAYA HC,Adaklu,Health Centre,Government,54,174,33
+BODADA HC,Jasikan,Health Centre,Government,53,144,18
+ANYANUI HC,Keta,Health Centre,Government,52,186,16
+ST PAULS HOSP,Akatsi South,Hospital,Private,49,121,33
+EHIAMANKYENE HC,Krachi West,Health Centre,Government,48,85,25
+DZOLOKPUITA HC,Ho West,Health Centre,Government,47,119,27
+LOLOBI HC,Hohoe,Health Centre,Government,47,154,18
+ADUTOR HC,South Tongu,Health Centre,Government,46,184,41
+WUSUTA HC,North Dayi,Health Centre,Government,44,89,8
+AVE DAKPA HC,Akatsi North,Health Centre,Government,42,98,7
+POASE CEMENT HC,Kadjebi,Health Centre,Government,42,85,7
+KLIKOR HC,Ketu South,Health Centre,Government,41,101,23
+AGBENOXOE HC,Kpando,Health Centre,Government,39,120,13
+DZAKE HC,South Dayi,Health Centre,Government,39,73,4
+FODOME AHOR HC,Hohoe,Health Centre,Government,39,140,24
+DORMABIN HC,Krachi East,Health Centre,Government,38,87,16
+BONAKYE CHPS,Nkwanta South,Chps,Government,37,63,0
+KERI CHPS,Nkwanta South,Chps,Government,37,81,2
+TOKUROANO HC,Krachi East,Health Centre,Government,37,75,4
+GBI WEGBE HC,Hohoe,Health Centre,Government,35,106,0
+WEGBE KPALIME HC,South Dayi,Health Centre,Government,35,109,14
+ST PATRICK HOSP,Kpando,Hospital,Private,34,49,7
+TSITO HC,Ho West,Health Centre,Government,34,88,9
+VE GOLOKWATI HC,Afadjato South,Health Centre,Government,33,78,0
+AKROFU HC,Ho,Health Centre,Government,32,74,9
+KAFUI MATERNITY,Keta,Maternity Home,Private,32,93,5
+LIKPE BALA HC,Hohoe,Health Centre,Government,32,93,20
+AGBOZOME HC,Ketu South,Health Centre,Government,31,70,0
+KWAMEKROM HC,Biakoye,Health Centre,Government,30,51,7
+ADZOKOE HC,South Dayi,Health Centre,Government,28,37,0
+JUAPONG HC,North Tongu,Health Centre,Government,27,91,21
+KPEDZE POLYCLINIC,Ho West,Polyclinic,Government,27,59,9
+DABALA HC,South Tongu,Health Centre,Government,26,82,16
+JORDANNU CHPS,North Dayi,Chps,Government,25,37,1
+PAMPAMWIE HC,Kadjebi,Health Centre,Government,24,45,2
+PENTECOST CLINIC KPASSA,Nkwanta North,Clinic,Chag,24,44,0
+SOGAKPPE DIST HOSP,South Tongu,Hospital,Government,24,36,12
+AVEME DANYIGBA CHPS,North Dayi,Chps,Government,23,52,3
+BOTOKU HC,North Dayi,Health Centre,Government,23,38,7
+SANTROKOFI HC,Hohoe,Health Centre,Government,23,91,1
+HOFEDO CHPS,Ho,Chps,Government,22,47,0
+SHIA HC,Ho,Health Centre,Government,22,74,11
+FODOME HELU HC,Hohoe,Health Centre,Government,21,70,4
+MATTYS MAT HOME,Kpando,Maternity Home,Private,20,25,0
+AFATOME CLINIC,Ketu South,Clinic,Government,19,28,0
+DAMANKO HC,Nkwanta North,Health Centre,Government,19,46,12
+KUDZRA HC,Kpando,Health Centre,Government,19,36,0
+AFIFE HC,Ketu North,Health Centre,Government,18,40,11
+AGOUFIE CHPS,Nkwanta South,Chps,Government,18,41,1
+BAIKA HC,Jasikan,Health Centre,Government,18,53,0
+BREWANIASE HC,Nkwanta South,Health Centre,Government,18,24,0
+FINLANDIA CLINIC,Ketu South,Clinic,Private,18,45,1
+KABITI CHPS,Nkwanta South,Chps,Government,18,35,2
+NYAMBONG CHPS,Nkwanta South,Chps,Government,18,32,0
+SALEM MAT HOME,South Dayi,Maternity Home,Private,18,35,10
+SALVATION ARMY,Adaklu,Health Centre,Chag,18,36,0
+TSRUKPE HC,North Dayi,Health Centre,Government,18,39,0
+BUME CHPS,North Dayi,Chps,Government,17,24,0
+DODI MEMPEASEM HC,Kadjebi,Health Centre,Government,17,21,0
+KOE CHPS,Nkwanta South,Chps,Government,17,39,2
+TREGUI HC,Keta,Health Centre,Government,16,42,5
+TSIYINU CHPS,South Dayi,Chps,Government,16,38,0
+FESI CHPS,Kpando,Chps,Government,15,20,0
+TADZEWU HC,Ketu North,Health Centre,Government,15,28,6
+ALUKPATSA CHPS,Nkwanta South,Chps,Government,14,28,0
+SABADU HC,North Dayi,Health Centre,Government,14,26,7
+AKPORKPLOE HC,Ketu South,Health Centre,Government,13,28,0
+AZUA CHPS,Nkwanta North,Chps,Government,12,26,0
+KECHEBI CHPS,Nkwanta South,Chps,Government,12,13,0
+MATSE HC,Ho,Health Centre,Government,12,26,0
+SALIFU CHPS,Nkwanta South,Chps,Government,12,15,0
+AVEME HC,Ho West,Health Centre,Government,11,18,2
+SIBI CENTRAL CHPS,Nkwanta North,Chps,Government,11,18,0
+ASUKAWKAW HC,Krachi East,Health Centre,Government,10,13,0
+AWATE HC,North Dayi,Health Centre,Government,10,15,0
+KPALIME DUGA HC,South Dayi,Health Centre,Government,10,17,0
+NSUTA HC,Jasikan,Health Centre,Government,10,11,0
+OBANDA CHPS,Nkwanta South,Chps,Government,10,27,0
+TSIBU CHPS,Ho West,Chps,Government,10,20,4
+WUDZEDEKE CHPS,Agortime Ziope,Chps,Government,10,20,0
+BONTIBOR CHPS,Nkwanta South,Chps,Government,9,14,0
+EHI HC,Ketu North,Health Centre,Government,9,16,1
+LEKLEBI DUGA HC,Afadjato South,Health Centre,Government,9,15,0
+PENYI HC,Ketu North,Health Centre,Government,9,24,5
+TUTUKPENE HC,Nkwanta South,Health Centre,Government,9,17,0
+CHAISO CHPS,Nkwanta South,Chps,Government,8,22,0
+DAFOR CHPS,Kpando,Chps,Government,8,12,0
+DEDEDO CHPS,Ho West,Chps,Government,8,20,2
+DODOME AWUIASE HC,Ho West,Health Centre,Government,8,26,5
+KLEFE HC,Ho,Health Centre,Government,8,19,0
+AGAVEDZI HC,Ketu South,Health Centre,Government,7,10,0
+ANYAKO HC,Keta,Health Centre,Government,7,11,0
+ASADAME HC,Keta,Health Centre,Government,7,21,3
+GBEFI CHPS,Kpando,Chps,Government,7,9,0
+KPOTAME HC,South Tongu,Health Centre,Government,7,19,2
+NABU CHPS,Nkwanta North,Chps,Government,7,28,4
+ODUMASE CHPS,Nkwanta South,Chps,Government,7,12,0
+OFOSU CHPS,Nkwanta South,Chps,Government,7,11,0
+SIBI HILLTOP CHPS,Nkwanta North,Chps,Government,7,21,0
+TSATEE CHPS,South Dayi,Chps,Government,7,14,0
+FORESIGHT MC,Ho,Clinic,Private,6,16,0
+KEDZI HC,Keta,Health Centre,Government,6,7,0
+LEKLEBI KAME HC,Afadjato South,Health Centre,Government,6,9,1
+WADAMAXE CHPS,North Dayi,Chps,Government,6,16,0
+AHUNDA HC,Adaklu,Health Centre,Government,5,7,2
+ATORKOR HC,Keta,Health Centre,Government,5,8,0
+DEVEGO HC,Ketu North,Health Centre,Government,5,9,0
+GADZA HC,Kpando,Health Centre,Government,5,6,0
+GEFIA HC,Akatsi South,Health Centre,Government,5,8,1
+KODZI HC,Keta,Health Centre,Government,5,10,0
+LIKPE AGBOZOME CHPS,Hohoe,Chps,Government,5,10,1
+TAKLA CHPS,Ho,Chps,Government,5,6,0
+WETA HC,Ketu North,Health Centre,Government,5,9,0
+AVEGATO CHPS,Ketu South,Chps,Government,4,7,0
+AVEME BEME CHPS,North Dayi,Chps,Government,4,7,0
+KEYIME HC,Agortime Ziope,Health Centre,Government,4,7,0
+KONI HC,Nkwanta North,Health Centre,Chag,4,4,0
+LIATI WOTE CHPS,Afadjato South,Chps,Government,4,5,0
+OHAWU HC,Ketu North,Health Centre,Government,4,6,0
+OLD AYOMA HC,Jasikan,Health Centre,Government,4,8,0
+TINJASE CHPS,Nkwanta North,Chps,Government,4,6,0
+ADINA HC,Ketu South,Health Centre,Government,3,6,0
+BIODUN MATERNITY,Central Tongu,Maternity Home,Private,3,3,0
+HOPE HC,Ho,Health Centre,Government,3,3,0
+KPELEMA CHPS,Krachi East,Chps,Government,3,5,0
+LOGBA TOTA HC,Afadjato South,Health Centre,Government,3,9,0
+TAVIAFE HC,Ho,Health Centre,Government,3,4,0
+AMEDZOFE HC,Ho West,Health Centre,Government,2,4,0
+AVENORPEDO HC,Akatsi South,Health Centre,Government,2,4,0
+AVENORPEME HC,Akatsi South,Health Centre,Government,2,4,0
+HOGGAR CLINIC,Akatsi South,Clinic,Private,2,4,0
+MAFE SASEKPE HC,Central Tongu,Health Centre,Government,2,3,0
+NYAGBO SROE CHPS,Afadjato South,Chps,Government,2,2,0
+SASIEME HC,Keta,Health Centre,Government,2,3,0
+ABUNYANYA CHPS,Nkwanta North,Chps,Government,1,1,0
+ATIAVI HC,Keta,Health Centre,Government,1,1,0
+CROWN MAT HOME,Keta,Maternity Home,Private,1,1,0
+DORFOR ADIDOME HC,North Tongu,Health Centre,Government,1,3,1
+VOLO HC,North Tongu,Health Centre,Government,1,1,1
+WUTE HC,Akatsi South,Health Centre,Government,1,1,0
