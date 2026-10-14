@@ -1,6 +1,10 @@
-library(tidyverse)
-library(dplyr)
-library(janitor)
+# Check if packages are available, install them if they are not (using pacman)
+if(!require("pacman")) install.packages("pacman")
+pacman::p_load(
+  tidyverse,
+  dplyr,
+  janitor
+)
 
 # Import data
 claims_raw <- read_csv("data/raw/Final Final Data.csv")
@@ -29,7 +33,6 @@ one_woman <- claims_raw |>
 
 
 one_woman
-
 
 
 ###### MODULE 2 #######
@@ -84,8 +87,8 @@ claims |>
     folder_no, 
     attend_date_raw, 
     attend_date 
-  ) |> #select only interested variables
-  print(n = Inf) #print all entries
+  ) |> 
+  print(n = Inf)
 
 
 # # Optional audit of the source strings and parsed dates
@@ -280,6 +283,10 @@ saveRDS(
 )
 
 
+head(claims_raw, n = 5)
+
+claims_raw |> 
+  head(n = 5)
 
 
 ###### MODULE 3 ####### 
@@ -439,7 +446,45 @@ patient_journey %>%
   ggplot(aes(attend_date, facility_name, group = nhisid, color = facility_name)) +
     geom_line() + geom_point() +
     facet_wrap(~ nhisid, scales = "free_y") +
-    labs(x = "Date", 
+    labs(x = "Date",
         y = "Facility", title = "Selected maternal care journeys") +
     theme_minimal()
 
+
+
+
+##### MODULE 4 #####
+#Module 4. Measuring Continuity of Care Using Longitudinal Health Claims Data
+
+calculate_mfpc <- function(visit_sequence) {
+  visit_sequence <- visit_sequence[!is.na(visit_sequence)]
+  if (length(visit_sequence) < 2) 
+    return(NA_real_)
+  
+  anc_sequence <- head(visit_sequence, -1)
+  facility_counts <- table(anc_sequence)
+  max(facility_counts) / length(anc_sequence)
+}
+
+
+people <- [k: 1, a: 2, m:4]
+
+
+people[a]
+
+
+
+calculate_pdc_prop <- function(visit_sequence) {
+if (length(visit_sequence) < 2) return(NA_real_)
+delivery_facility <- tail(visit_sequence, 1)
+anc_sequence <- head(visit_sequence, -1)
+anc_sequence <- anc_sequence[!is.na(anc_sequence)]
+if (is.na(delivery_facility) || length(anc_sequence) == 0) {
+return(NA_real_)
+}
+mean(anc_sequence == delivery_facility)
+}
+
+
+K <- c("TRUE", "FALSE", "TRUE"))
+mean(k)
